@@ -1,4 +1,4 @@
-# Autenticación y autorización
+Autenticación y autorización
 
 En esta parte del proyecto se desarrollará el sistema de autenticación y autorización de Eventia, el cual permitirá que los usuarios puedan registrarse e iniciar sesión para acceder a las funcionalidades de la aplicación.
 
